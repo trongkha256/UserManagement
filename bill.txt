@@ -1,0 +1,63 @@
+1
+7
+2020
+1
+coca
+nuoc uong
+10
+3
+30
+1
+7
+2020
+2
+aquafina
+nuoc uong
+5
+4
+20
+2
+7
+2020
+4
+xa lach
+rau
+9
+4
+36
+2
+7
+2020
+4
+xa lach
+rau
+9
+4
+36
+3
+7
+2020
+4
+xa lach
+rau
+9
+4
+36
+3
+7
+2020
+4
+xa lach
+rau
+9
+4
+36
+2
+7
+2020
+1
+coca
+nuoc uong
+9
+4
+36
